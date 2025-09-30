@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿System.Console.WriteLine("Ones that can go");
+/*
+Apostale
+
+*/
+
+System.Console.WriteLine("ones to stay");
+/*
+rest in peace
+enchant merfolk
+*/
