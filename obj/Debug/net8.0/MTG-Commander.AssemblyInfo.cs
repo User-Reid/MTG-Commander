@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MTG-Commander")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e635c7555cedfd4afe87b479027a4b7b3136cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e3876f4075f4812bda8f069906c68f8b2b32367")]
 [assembly: System.Reflection.AssemblyProductAttribute("MTG-Commander")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MTG-Commander")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
